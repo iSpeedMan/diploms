@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>http://funnyfarm.xyz/</loc>
+	<lastmod>2020-05-29T19:01:36+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/index.html</loc>
+	<lastmod>2020-05-29T19:01:36+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/gallary.html</loc>
+	<lastmod>2020-05-29T19:01:39+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/order.html</loc>
+	<lastmod>2020-05-29T19:01:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/about.html</loc>
+	<lastmod>2020-05-29T19:01:41+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/1_milk.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/2_cheese.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/3_cottage_cheese.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/4_butter.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/5_chicken.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/6_eggs.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/7_honey.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/8_pork.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/9_beef.html</loc>
+	<lastmod>2020-05-29T19:02:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://funnyfarm.xyz/catalog-item/10_mutton.html</loc>
+	<lastmod>2020-05-29T19:02:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
